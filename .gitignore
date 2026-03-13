@@ -7,3 +7,4 @@ data/cleaned/*.csv
 reports/*.json
 reports/*.html
 .DS_Store
+AGENTS-FOR-DATA-QUALITY/
